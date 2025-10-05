@@ -1,0 +1,9 @@
+variable,VIF
+Intercept,22.428034240640287
+C(pclass)[T.2],2.161946937397393
+C(pclass)[T.3],2.7895533904682623
+C(sex)[T.male],1.076137341642344
+C(embark_town)[T.Queenstown],1.2412964097662005
+C(embark_town)[T.Southampton],1.3465518655893824
+age,1.220182802003693
+fare,1.6509208881640824
