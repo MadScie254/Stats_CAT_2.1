@@ -1,0 +1,4 @@
+Measure,Point estimate,95% CI,"Per 1,000",Interpretation
+Risk difference,0.0077091292831817666,"(0.0046905070, 0.0107277516)",7.709129283181767,"Additional fatalities per 1,000 when no seat belt is used"
+Relative risk,1.818131345177665,"(1.433291, 2.306302)",,Multiplicative change in risk for no seat belt vs seat belt
+Odds ratio,1.8323918657198193,"(1.440308, 2.331210)",,Multiplicative change in odds (case-control analogue)

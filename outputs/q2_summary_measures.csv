@@ -1,0 +1,4 @@
+Measure,Point estimate,95% CI,Interpretation
+Risk difference,0.031028886725089255,"(-0.0113, 0.0733)","Approximate excess cases per 1,000 among Oracon users"
+Relative risk,2.532051282051282,"(0.897, 7.151)",Approximate risk ratio (interpret cautiously in case–control)
+Odds ratio,2.614864864864865,"(0.889, 7.695)",Exact odds ratio (valid for case–control)
